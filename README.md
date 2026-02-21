@@ -1,6 +1,6 @@
 <div align="center">
 
-# PhaSR: Generalized Image Shadow Removal with Physically Aligned Priors
+# PhaSR: Generalized Image Shadow Removal with Physically Aligned Priors (CVPR 2026)
 
 <img src="./images/PhaSR_logo.png" width="600"/>
 
