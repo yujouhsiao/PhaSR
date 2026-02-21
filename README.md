@@ -6,7 +6,7 @@
 
 ## [[Paper Link]](https://arxiv.org/abs/2601.17470) [[Project Page]](https://ming053l.github.io/PhaSR_github/) [[Model zoo]](https://drive.google.com/drive/folders/XXXXX) [[Visual Results]](https://drive.google.com/drive/folders/XXXXX)
 
-[Chia-Ming Lee](https://ming053l.github.io/), [Yu-Fan Lin](https://vanlinlin.github.io/), Yu-Jou Hsiao, Jing-Hui Jung, [Yu-Lun Liu](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/), [Chih-Chung Hsu](https://cchsu.info/)
+[Chia-Ming Lee](https://ming053l.github.io/), [Yu-Fan Lin](https://vanlinlin.github.io/), Yu-Jou Hsiao, Jin-Hui Jiang, [Yu-Lun Liu](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/), [Chih-Chung Hsu](https://cchsu.info/)
 
 National Yang Ming Chiao Tung University, National Cheng Kung University
 
